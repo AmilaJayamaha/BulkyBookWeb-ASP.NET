@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wk5UfbSzYb8E4TEbKdlWp7HNHsWaThunNNaMErJXlCk=",
+  "Hash": "7LgYCtkwHMPakICFoczUcKc0trbM4f6RUydkdQR9O0k=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Rasika\\Desktop\\Projects\\ASP.NET\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rasika\\Desktop\\Projects\\ASP.NET\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\BootsWatchThemet.css",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rasika\\Desktop\\Projects\\ASP.NET\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "css/BootsWatchThemet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootsWatchThemet.css"
     },
     {
       "Identity": "C:\\Users\\Rasika\\Desktop\\Projects\\ASP.NET\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",

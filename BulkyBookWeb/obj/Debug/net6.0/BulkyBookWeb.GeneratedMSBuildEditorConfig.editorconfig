@@ -12,9 +12,13 @@ build_property.RootNamespace = BulkyBookWeb
 build_property.ProjectDir = C:\Users\Rasika\Desktop\Projects\ASP.NET\BulkyBook\BulkyBookWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Rasika\Desktop\Projects\ASP.NET\BulkyBook\BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rasika/Desktop/Projects/ASP.NET/BulkyBook/BulkyBookWeb/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rasika/Desktop/Projects/ASP.NET/BulkyBook/BulkyBookWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
